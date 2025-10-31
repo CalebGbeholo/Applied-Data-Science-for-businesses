@@ -1,0 +1,1 @@
+This project showcases machine learning applications in diverse business contexts, outlining each problem and providing end-to-end solutions. Techniques applied include unsupervised learning, regression, classification, decision trees, random forests, neural networks, and recommendation systems.
